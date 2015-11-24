@@ -1,2 +1,3 @@
-# yangj550.github.io
-YangJ550
+# TongJiskills
+
+Just for programming practice.
